@@ -20,7 +20,7 @@ To execute this program successfully, you need to generate an account on CSPRO s
 
 - **Installation**
 
-Unzip the coserver.tar file with 'tar -xvzf' command. After the unzip completes(you may already reach this step since you read this txt file), go to 'sp2' folder and compile source codes with 'make' command. After this, just run it and enjoy!
+Unzip the coserver.tar file with 'tar -xvzf' command. After the unzip completes(you may already reach this step since you read this txt file), go to 'sp2' folder and compile source codes with 'make' command. After this, open two ssh prompt, use one as a server and the other as multiclient, with any network ports. Enjoy!
 
 <br>
 
